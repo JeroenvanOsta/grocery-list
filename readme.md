@@ -1,7 +1,25 @@
-# Vanilla JavaScript App
+# Demonstration repository for students
 
-[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build JavaScript apps in minutes. Use this repo with the [quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=vanilla-javascript) to build and customize a new static site.
-
-This repo is used as a starter for a _very basic_ HTML web application using no front-end frameworks.
-
-This repo has a dev container. This means if you open it inside a [GitHub Codespace](https://github.com/features/codespaces), or using [VS Code with the remote containers extension](https://code.visualstudio.com/docs/remote/containers), it will be opened inside a container with all the dependencies already installed.
+- Introduction
+- What is git?
+- What is version control?
+- Terms to be learn in video
+- Git commands
+- Sign up in GitHub
+- Using git in local machine
+- Git install
+- Getting code editor
+- Inside VS Code
+- Cloning through VS Code
+- Git commit command
+- Git add command
+- Committing
+- git push command
+- SSH Keys or HTTPS
+- Git push
+- Review workflow so far
+- Compare between GitHub workflow and local git workflow
+- Git branching
+- Undoing in git
+- Forking in git
+- Ending
