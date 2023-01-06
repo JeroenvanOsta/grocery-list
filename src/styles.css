@@ -13,7 +13,7 @@ html, body {
 
 main {
   margin: auto;
-  width: 50%;
+  width: 75%;
   padding: 20px;
 }
 
@@ -28,4 +28,5 @@ iframe {
   border: none;
   width: 500;
   height: 1000;
+  font-size: medium;
 }
