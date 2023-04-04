@@ -9,4 +9,6 @@ const list = [
 	"Eggplants",
 	"Walnuts",
 	"Tomatoes",
+	"Pears",
+	"Apples"
 ]
