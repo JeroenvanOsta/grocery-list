@@ -10,5 +10,6 @@ const list = [
 	"Walnuts",
 	"Tomatoes",
 	"Pears",
-	"Apples"
+	"Apples",
+	"Quinces",
 ]
